@@ -1500,6 +1500,12 @@
 		(uuid "09797cc6-dbbf-43d9-89ed-e6b8ac3a8c95")
 	)
 	(junction
+		(at 162.56 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1169b526-0a6b-4f7d-8441-f2fc1097f347")
+	)
+	(junction
 		(at 162.56 80.01)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1859,16 +1865,6 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 66.04) (xy 176.53 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a1d10786-a2b6-4468-8cfb-73c38cb0275f")
-	)
-	(wire
-		(pts
 			(xy 162.56 80.01) (xy 168.91 80.01)
 		)
 		(stroke
@@ -1986,6 +1982,16 @@
 			(type default)
 		)
 		(uuid "d130884d-7a0c-44eb-9c0a-decd23dbdf09")
+	)
+	(wire
+		(pts
+			(xy 176.53 67.31) (xy 176.53 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2f109e6-069b-4b81-91dc-70e5ba0c4bc3")
 	)
 	(wire
 		(pts
@@ -2119,7 +2125,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 66.04) (xy 176.53 66.04)
+			(xy 162.56 67.31) (xy 176.53 67.31)
 		)
 		(stroke
 			(width 0)
@@ -2166,7 +2172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "2.2M"
 			(at 68.58 125.7299 0)
 			(effects
 				(font
@@ -2236,7 +2242,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "470nF"
 			(at 50.8 123.1899 0)
 			(effects
 				(font
@@ -2996,7 +3002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "4.7K"
 			(at 92.71 64.7699 0)
 			(effects
 				(font
@@ -3066,7 +3072,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "47K"
 			(at 49.53 102.8699 0)
 			(effects
 				(font
@@ -3213,7 +3219,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "220"
 			(at 109.22 62.2299 0)
 			(effects
 				(font
@@ -3348,7 +3354,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 219.71 83.8199 0)
 			(effects
 				(font
@@ -3417,7 +3423,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 196.342 78.74 0)
 			(effects
 				(font
@@ -3486,7 +3492,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "100K"
 			(at 101.6 90.17 90)
 			(effects
 				(font
@@ -3687,7 +3693,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "10uF"
 			(at 180.34 104.1399 0)
 			(effects
 				(font

@@ -6,11 +6,11 @@ A little personalized monkey buddy that turns evil in the dark! My first PCB for
 
 
 
-## PCB
+## 3D View
 ![Screenshot 2025-06-04 at 6 36 51 PM](https://github.com/user-attachments/assets/7a2330a6-d632-42e7-ae7d-b17a7062e233)
 ![Screenshot 2025-06-04 at 6 37 10 PM](https://github.com/user-attachments/assets/aba174a2-3add-406f-83fb-12211c1c659e)
 
-## 3D View
+## PCB
 <img width="680" alt="Screenshot 2025-06-04 at 6 37 43 PM" src="https://github.com/user-attachments/assets/b982ca70-5f5f-49db-ac49-af1062447472" />
 
 ## Features
